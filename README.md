@@ -1,7 +1,9 @@
 # AngularFirebaseAuth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
+
 This is a simple usage of AngularFire to use OAuth with Firebase
+
 Original content: https://coursetro.com/posts/code/32/Create-a-Full-Angular-Authentication-System-with-Firebase
 
 ## Development server
